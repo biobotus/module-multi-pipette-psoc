@@ -16,7 +16,7 @@
 #include <Defines.h>
 
 // CAN DEVICE ID
-#define CAN_DEVICE_ID                           (0x71)
+#define CAN_DEVICE_ID                           (0x72)
 
 // GLOBAL DEFINITIONS FOR THE CAN BUS.
 #define MAX_MSG_BUFFER_SIZE                     (50)    // Maximum amount of bytes to be stored in the CAN_MSG_BUFFER
